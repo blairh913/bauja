@@ -1,2 +1,2 @@
-# bauja2
-Manipulate buoy data
+# bauja
+A R package for accessing and manipulating buoy data from NDBC
